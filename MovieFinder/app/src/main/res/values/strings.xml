@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieFinder</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- messages-->
+    <string name="enter_movie_name">Enter movie name</string>
+    <string name="enter_correct_movie_name">Enter correct movie name</string>
+
+
+    <!-- error messages-->
+    <string name="error_network">No Network Connection</string>
+
+
+</resources>
